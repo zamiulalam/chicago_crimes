@@ -7,3 +7,5 @@ A version with the interactive maps can be found at (https://nbviewer.org/github
 The notebook 'Chicago_Crimes.ipynb' explores the distribution of different types of crimes and how it has varied throughout the years.
 
 The notebook 'Income_crime_corr.ipynb' shows the correlation of income and different demographics with the total number of crimes in 2023.
+
+The datasets are downloaded from the Chicago Data portal and can be found at [Crimes - 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data), [Boundaries - Community Areas (current)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6) and [ACS 5 Year Data by Community Area](https://data.cityofchicago.org/Community-Economic-Development/ACS-5-Year-Data-by-Community-Area/t68z-cikk/about_data)
